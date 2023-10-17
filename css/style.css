@@ -1,0 +1,152 @@
+body {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    background: url(/image/header-bg.jpg) no-repeat center top / cover;
+    color: #FFF;
+    font-family: 'Anton', sans-serif;
+    font-size: 14px;
+    line-height: normal;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    padding-top: 57px;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+.header__nav {
+    display: flex;
+    align-items: center;
+}
+.header__logo {
+    margin-right: 69px;
+}
+.header__nav-bar {
+    display: flex;
+}
+.header__nav-item {
+    margin-right: 40px;
+}
+.header__nav-tel {
+    margin-left: auto;
+    font-size: 17px;
+    letter-spacing: 1.7px;
+}
+.header__content {
+    margin-top: 216px;
+    letter-spacing: 0;
+}
+.header__content-subtitle {
+    font-size: 30px;
+}
+.header__content-title {
+    font-size: 100px;
+}
+.header__content-button {
+    color: #FFF;
+    width: 238px;
+    height: 57px;
+    font-size: 17px;
+    letter-spacing: 1.7px;
+    background: transparent;
+    border: 1px solid #FFF;
+    margin-bottom: 322px;
+}
+/* -------------------------------------------------------------- */
+/* -------------------------------------------------------------- */
+.about {
+    margin-top: 113px;
+    color: #000;
+}
+.about__content {
+}
+.about__content-title {
+    color: #000;
+    font-family: 'Anton';
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-bottom: 58px;
+}
+.about__content-block {
+    display: flex;
+}
+.about__content-subtitle {
+    width: 564px;
+    color: #000;
+    font-family: 'Anton';
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-right: 36px;
+}
+.about__content-text {
+    color: #000;
+    text-align: justify;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 162.682%;
+    margin-top: 19px;
+}
+.about__image-box {
+    margin-top: 67px;
+    display: flex;
+}
+.about__image-item {
+    margin-right: 30px;
+}
+/* -------------------------------------------------------------- */
+/* -------------------------------------------------------------- */
+.footer {
+    margin-top: 114px;
+}
+.container {
+}
+.footer__content {
+    display: flex;
+}
+.footer__content-project {
+    margin-right: 55px;
+    margin-bottom: 80px;
+    color: #000;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    line-height: normal;
+}
+.footer__content-design {
+    color: #000;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    line-height: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
